@@ -10,7 +10,8 @@
 | --- | --- | --- |
 | [ogmake-mcp](https://github.com/ogmake/ogmake-mcp) | MCP server: generate social cards from your AI assistant. Listed in the MCP Registry as `com.ogmake/mcp`. | `npx ogmake-mcp` ([npm](https://www.npmjs.com/package/ogmake-mcp), [docs](https://ogmake.com/docs/mcp)) |
 | [n8n-nodes-ogmake](https://github.com/ogmake/n8n-nodes-ogmake) | n8n community node | `n8n-nodes-ogmake` ([npm](https://www.npmjs.com/package/n8n-nodes-ogmake)) |
-| [Laravel package](https://ogmake.com/docs/laravel) | Signed image URLs for Laravel | `composer require ogmake/laravel` ([Packagist](https://packagist.org/packages/ogmake/laravel)) |
+| [ogmake-laravel](https://github.com/ogmake/ogmake-laravel) | Laravel package: signed image URLs ([guide](https://ogmake.com/docs/laravel)) | `composer require ogmake/laravel` ([Packagist](https://packagist.org/packages/ogmake/laravel)) |
+| [@ogmake/sdk](https://www.npmjs.com/package/@ogmake/sdk) | JavaScript/TypeScript SDK | `npm i @ogmake/sdk` ([npm](https://www.npmjs.com/package/@ogmake/sdk)) |
 | [generate-og-images](https://github.com/ogmake/generate-og-images) | GitHub Action for static sites | `uses: ogmake/generate-og-images@v1` |
 | [ogmake-python](https://github.com/ogmake/ogmake-python) | Python SDK | `pip install git+https://github.com/ogmake/ogmake-python` |
 | [ogmake-php](https://github.com/ogmake/ogmake-php) | PHP SDK | `composer require ogmake/ogmake-php:dev-main` |
